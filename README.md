@@ -2,6 +2,8 @@
 
 # An eclectic assortment of non-work example projects.
 
-## 1. Solved mazes from Maze Solving.ipynb:
+## 1. [Maze Solving] Solved mazes from Maze Solving.ipynb:
 ![](maze_5.gif)
 ![](maze_4.gif)
+## 2. [Guess Watch Prices] Using Selenium to retrieve info on all 1510 watches from www.Longines.com. Analyze & process the data. Then use linear regression to appraise any hypothetical Longines watches. Which physical factors drive the watch price the most?
+![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Guess%20Watch%20Prices/Example%20Longines%20Watches.png)
