@@ -2,7 +2,7 @@
 
 # An eclectic assortment of non-work example projects.
 
-## 1. <a href="https://github.com/ZhongRabbit/hobby_project/tree/master/Maze%20Solving">[Maze Solving]</a> Takes a maze image input, converts to a numpy matrix before solving.
+## 1. <a href="https://github.com/ZhongRabbit/hobby_project/tree/master/Maze%20Solving">[Maze Solving]</a> Converts a maze image to a numpy matrix before solving.
 ### Tags: Python, Image Processing
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_3.gif)
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_4.gif)
