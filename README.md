@@ -3,7 +3,7 @@
 # An eclectic assortment of non-work example projects.
 
 ## 1. [Maze Solving] Solved mazes from Maze Solving.ipynb:
-![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_5.gif)
+![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_3.gif)
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_4.gif)
 # _________________________________________________________
 ## 2. [Guess Watch Prices] Is it possible to guess prices of luxury watches? Also, use Selenium to get around some website practices of hiding merchandise prices.
