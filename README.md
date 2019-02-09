@@ -12,5 +12,5 @@
 ### C. Which physical factors primarily dictate watch prices? Seems to be watch case & bracelet materials.
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Guess%20Watch%20Prices/Example%20Longines%20Watches.png)
 # _________________________________________________________
-## 3. [House or Room Paint Ideas] Allow users to evaluate color options for painting projects. Colors are randomly generate on the webpage and display hex color codes when the mouse hovers above them. Be pleasantly surprised by a dazzling color array.
+## 3. [House or Room Paint Ideas] Shows users a large array of random color options for paint projects. Mousing over each color block will prompt display of matching hex codes. Each mouse click will refresh random color blocks. Be pleasantly surprised by a dazzling color array.
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/House%20or%20Room%20Paint%20Ideas/Paint%20Ideas%20720K.gif)
