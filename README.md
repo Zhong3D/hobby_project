@@ -9,7 +9,7 @@
 ## 2. [Guess Watch Prices] Is it possible to guess prices of luxury watches? Also, use Selenium to get around some website practices of hiding merchandise prices.
 ### A. Use Selenium to retrieve info on all 1510 watches from www.Longines.com.
 ### B. Analyze & process the data. Then use linear regression to appraise any hypothetical Longines watches.
-### C. Which physical factors primarily dictate watch prices? Seems to be watch case & bracelet materials.
+### C. Which physical factors primarily dictate watch prices?
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Guess%20Watch%20Prices/Compare%20Longines%20Watches.png)
 # _________________________________________________________
 ## 3. [House or Room Paint Ideas] Shows users a large array of random color options for paint projects. Mousing over each color block will prompt display of matching hex codes. Each mouse click will refresh random color blocks. Be pleasantly surprised by a dazzling color array.
