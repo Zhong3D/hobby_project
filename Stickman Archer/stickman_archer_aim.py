@@ -1,3 +1,10 @@
+# Instructions:
+# 1. Depending on your screen resolution, size & color setup, you may need to adjust the parameter below.
+# 2. Find the game at: http://www.crazygames.com/game/stickman-archer-2, or advert-free version at: http://cdn.kiz10.com/upload/games/htmlgames/stickman-archer-2-2017/1502991759/index.html
+# 3. Run this program.
+# 4. Full screen the internet browser to start the game.
+# 5. Press 's' to start or stop the auto launching of arrows. Press 'e' to exit the program.
+
 import time
 import threading
 from pynput.mouse import Button, Controller
@@ -14,13 +21,13 @@ button = Button.left
 start_stop_key = KeyCode(char='s')
 exit_key = KeyCode(char='e')
 
-# The resolution of my screen and actual screen pixel counts differ. Since PIL ImageGrab & pynput.mouse operate on separate systems, use these liaison parameters.
+# *** The resolution of my screen and actual screen pixel counts differ. Since PIL ImageGrab & pynput.mouse operate on separate systems, use these liaison parameters.
 px_x = 2559
 px_y = 1599
 rs_x = 1279
 rs_y = 799
 
-# Define game screen coordinates. Use the full screen mode for stickman archer game at: http://www.crazygames.com/game/stickman-archer-2. Or just the game itself w/o the advertisements at: http://cdn.kiz10.com/upload/games/htmlgames/stickman-archer-2-2017/1502991759/index.html although you need to full screen to match the predefined game coordinates.
+# *** Define game screen coordinates.
 limit_x_left = 360
 limit_x_right = 1100
 limit_y_up = 92
