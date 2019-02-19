@@ -15,6 +15,6 @@
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_3.gif)
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Maze%20Solving/maze_4.gif)
 # _________________________________________________________
-## 4. <a href="https://github.com/ZhongRabbit/hobby_project/tree/master/House%20or%20Room%20Paint%20Ideas">[House or Room Paint Ideas]</a> Shows users a large array of random color options for paint projects. Mousing over each color block will prompt display of matching hex codes. Each mouse click will refresh random color blocks. Be pleasantly surprised by a dazzling color array.
+## 4. <a href="https://github.com/ZhongRabbit/hobby_project/tree/master/House%20or%20Room%20Paint%20Ideas">[Paint Project Ideas]</a> Shows users a large array of random color options for paint projects. Mousing over each color block will prompt display of matching hex codes. Each mouse click will refresh random color blocks. Be pleasantly surprised by a dazzling color array.
 ### Tags: Flask, Python, Javascript, JQuery, HTML
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/House%20or%20Room%20Paint%20Ideas/Paint%20Ideas%20720K.gif)
