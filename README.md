@@ -2,7 +2,7 @@
 
 # An eclectic assortment of non-work example projects.
 # _________________________________________________________
-## 1. <a href="https://github.com/ZhongRabbit/hobby_project/blob/master/Mining%20MNIST-like%20Numbers/MNIST%20Number%20Mining%20%26%20Image%20Processing.ipynb">[Mining MNIST-like Numbers]</a> Mining & Pre-processing >10k number images for Machine Learning. Create your own MNIST dataset.
+## 1. <a href="https://github.com/ZhongRabbit/hobby_project/blob/master/Mining%20MNIST-like%20Numbers/MNIST%20Number%20Mining%20%26%20Image%20Processing.ipynb">[Mining MNIST Numbers]</a> Mining & Pre-processing >10,000 number images for Machine Learning. Create your own MNIST dataset.
 ### Tags: Python, Selenium, Data Mining, Image Processing
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Mining%20MNIST-like%20Numbers/Animation%20(numbers%20mining).gif)
 # _________________________________________________________
