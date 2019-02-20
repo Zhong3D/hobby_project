@@ -6,7 +6,7 @@
 ### Tags: Python, Selenium, Data Mining, Image Processing
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Mining%20MNIST%20Numbers/Animation%20(numbers%20mining).gif)
 # _________________________________________________________
-## 2. <a href="https://github.com/ZhongRabbit/hobby_project/tree/master/Guess%20Watch%20Prices">[Guess Watch Prices]</a> Let's teach machine how to appraise luxury watch prices. For this, we need to first mine & process data from the Longines watch website.
+## 2. <a href="https://github.com/ZhongRabbit/hobby_project/blob/master/Watch%20Prices/Longines%20Watches.ipynb">[Guess Watch Prices]</a> Let's teach machine how to appraise luxury watch prices. For this, we need to first mine & process data from the Longines watch website.
 ### Tags: Python, Selenium, Data Mining, Linear Regression
 ![alt text](https://github.com/ZhongRabbit/hobby_project/blob/master/Watch%20Prices/Compare%20Longines%20Watches.png)
 # _________________________________________________________
